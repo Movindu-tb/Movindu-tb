@@ -1,5 +1,1 @@
-<p style="text-align: center;"><span style="font-family: 'Arial Black', Gadget, sans-serif;">Hello, I&apos;m Movindu Bandara <img src="https://1.bp.blogspot.com/-bWAri_zUeJo/YUcRMf5umKI/AAAAAAAAAlg/wNcFgZx5EUwaawhp7JWUp01GP1Lgaj-kwCNcBGAsYHQ/s64/upside_down_face.gif" style="width: 28px;"></span></p>
-<p><span style="font-family: Arial, Helvetica, sans-serif; font-size: 13px;">&bull; I Live In Srilanka <img src="https://1.bp.blogspot.com/-LbkXmwi0uiM/YUcWdkGbyzI/AAAAAAAAAlo/MK2ACgrbtZAUSlhnZetKMdCzZTZTKjKCgCNcBGAsYHQ/s64/1f1f1-1f1f0.png" style="width: 22px;"></span></p>
-<p><span style="font-family: Arial, Helvetica, sans-serif;"><span style="font-size: 13px;">&bull; I&apos;m Studying At Colombo Ananda Collage &nbsp;<img src="https://1.bp.blogspot.com/-3fayH_ARuN8/YUcaTZqIJnI/AAAAAAAAAlw/Kis-B8Dt6pUvsY7aHDwzpdVNibz146c9gCNcBGAsYHQ/s64/1f4da.png" style="width: 23px;"></span></span></p>
-<p><span style="font-family: Arial, Helvetica, sans-serif; font-size: 13px;">&bull; I&apos;m Interested At Coding&nbsp;&nbsp;<img src="https://1.bp.blogspot.com/-y9ia3m8HPVw/YUcb_XHYDVI/AAAAAAAAAl4/Sw4TVRn2J2cD5CcNqMHxVKtCLzXdMT1GwCNcBGAsYHQ/s64/1f468-1f4bb.png" style="width: 24px;"></span></p>
-<p><br></p>
+#  Hello, I'm Movindu Bandara  <img src="https://1.bp.blogspot.com/-bWAri_zUeJo/YUcRMf5umKI/AAAAAAAAAlg/wNcFgZx5EUwaawhp7JWUp01GP1Lgaj-kwCNcBGAsYHQ/s64/upside_down_face.gif">
