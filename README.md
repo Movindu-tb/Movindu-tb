@@ -13,7 +13,7 @@
 
 - 👍 Follow me on Instagram:  <a href="https://www.instagram.com/slcoderlk/">slcoderlk</a>
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/T6T56D1Z9)
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/movindu)
 
 ##  My Github Stats
 
