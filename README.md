@@ -25,8 +25,4 @@
 <a href="https://github.com/denvercoder1/github-readme-streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Movindu-tb"></a>
 </p>
 
-<script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Buy Me a Coffe ', '#de6f6f', 'T6T56D1Z9');kofiwidget2.draw();</script> 
-
-
-
 ****
