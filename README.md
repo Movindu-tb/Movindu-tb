@@ -12,7 +12,7 @@
 
 - 💬 Ask me about anything. Contact me on email- slcoderyt@gmail.com
 
-- 👍 Follow me on Instagram:  <a href="https://www.instagram.com/slcoderlk/">slcoderlk</a>
+- 👍 Follow me on Twitter:  <a href="https://twitter.com/MovinduB">MovinduB</a>
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/movindu)
 
