@@ -1,5 +1,5 @@
 # <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi there I'm Movindu Bandara. 
-*****
+
 ![Profile views](https://gpvc.arturio.dev/Movindu-tb)  <a href="https://t.me/movindubandara"> ![contact](https://img.shields.io/badge/Contact%20me-On%20Telegram-blue) </a>
 
 
@@ -25,6 +25,7 @@
 <a href="https://github.com/denvercoder1/github-readme-streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Movindu-tb"></a>
 </p>
 
+<script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Buy Me a Coffe ', '#de6f6f', 'T6T56D1Z9');kofiwidget2.draw();</script> 
 
 
 
