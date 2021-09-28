@@ -1,8 +1,7 @@
 # <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi There I'm Movindu Bandara. 
 
 ![Profile views](https://gpvc.arturio.dev/Movindu-tb)  <a href="https://t.me/movindubandara"> ![contact](https://img.shields.io/badge/Contact%20me-On%20Telegram-blue) </a>
-![website](https://img.shields.io/badge/Visit%20Web-www.slcoder.cf-orange) </a>
-
+<a href="http://www.slcoder.cf">![contact](https://img.shields.io/badge/Visit%20Web-www.slcoder.cf-red) </a>
 
 - 👨‍💻 I'm a web developer from Sri Lanka
 
