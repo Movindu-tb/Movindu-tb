@@ -29,5 +29,5 @@
 
 ## YouTube Stats 
 
-[![Code Palace](https://img.shields.io/youtube/channel/subscribers/UCtkdVxQcNg7uOOixcyEDYrA?label=SL%20Coder&style=social)](https://www.youtube.com/c/UvinduBro/videos)
+[![Code Palace](https://img.shields.io/youtube/channel/subscribers/UCtkdVxQcNg7uOOixcyEDYrA?label=SL%20Coder&style=social)](https://www.youtube.com/channel/UCtkdVxQcNg7uOOixcyEDYrA)
 
