@@ -14,7 +14,7 @@
 
 - 👍 Follow me on Twitter:  <a href="https://twitter.com/MovinduB">MovinduB</a>
 
-<a href='https://ko-fi.com/T6T56D1Z9' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi3.png?v=3' border='0' alt='Buy Me a Coffee'/></a>
+<img src="https://1.bp.blogspot.com/-Ylc8TRs2cOA/YVKk4ruOV2I/AAAAAAAAAtg/EUYU_xuaYTwKBn0jXA4kTZpxqgPy54DSQCNcBGAsYHQ/s3050/BuyMeACoffee_Red%25402x.png"  href="https://ko-fi.com/movindu" width="190px">
 
 ##  My Github Stats
 
