@@ -19,6 +19,13 @@
 ## Support Me
 <div class="separator" style="clear: both;"><a href="https://ko-fi.com/movindu" style="display: block; padding: 1em 0px; text-align: center;" target="_blank"><img alt="" border="0" data-original-height="587" data-original-width="3050" src="https://1.bp.blogspot.com/-E4cqKnqxBlE/YVKl-DBdzFI/AAAAAAAAAto/J7n6837BSnQUsVqBmvZSXv7CTeYAUadcQCNcBGAsYHQ/s200/BuyMeACoffee_Red%25402x.png" width="200" /></a></div>
 
+## MY TOOLS AND LANG
+
+  <code><img width="5%"  src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg"></code>
+    <code><img width="5%"  src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg"></code>
+  <code><img width="5%"  src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"></code>
+  <code><img width="5%"  src="https://www.vectorlogo.zone/logos/python/python-icon.svg"></code>
+
 ##  My GitHub Stats 
 
 <p ><a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=Movindu-tb" /></a></p>
