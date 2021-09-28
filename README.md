@@ -23,6 +23,8 @@
 
 <p ><a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=Movindu-tb" /></a></p>
 
+![NOICE](https://github-readme-stats.vercel.app/api/top-langs/?username=Movindu-tb&theme=white_icons=true)
+
 <p><img src="https://github-profile-trophy.vercel.app/?username=Movindu-tb"></p>
 
 
