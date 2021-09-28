@@ -27,3 +27,7 @@
 <a href="https://github.com/denvercoder1/github-readme-streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Movindu-tb"></a>
 </p>
 
+## YouTube Stats 
+
+[![Code Palace](https://img.shields.io/youtube/channel/subscribers/UCtkdVxQcNg7uOOixcyEDYrA?label=SL%20Coder&style=social)](https://www.youtube.com/c/UvinduBro/videos)
+
