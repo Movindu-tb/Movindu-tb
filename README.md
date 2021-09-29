@@ -15,6 +15,8 @@
 
 [![Code Palace](https://img.shields.io/youtube/channel/subscribers/UCtkdVxQcNg7uOOixcyEDYrA?label=SL%20Coder&style=social)](https://www.youtube.com/channel/UCtkdVxQcNg7uOOixcyEDYrA)
 [![Github Followers](https://img.shields.io/github/followers/Movindu-tb?style=social)](https://github.com/Movindu-tb)
+<img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/MovinduB?style=social">
+
 
 ## Support Me
 <div class="separator" style="clear: both;"><a href="https://ko-fi.com/movindu" style="display: block; padding: 1em 0px; text-align: center;" target="_blank"><img alt="" border="0" data-original-height="587" data-original-width="3050" src="https://1.bp.blogspot.com/-E4cqKnqxBlE/YVKl-DBdzFI/AAAAAAAAAto/J7n6837BSnQUsVqBmvZSXv7CTeYAUadcQCNcBGAsYHQ/s200/BuyMeACoffee_Red%25402x.png" width="200" /></a></div>
