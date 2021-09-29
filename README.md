@@ -7,7 +7,7 @@
 
 - 👩‍🎓 I’m currently studying at Colombo Ananda Collage
 
-- ✍ I’m currently learning HTML, CSS, and PHP
+- ✍ I’m currently learning HTML, CSS, JavaScript and PHP
 
 - 💬 Ask me about anything. Contact me on email- slcoderyt@gmail.com
 
