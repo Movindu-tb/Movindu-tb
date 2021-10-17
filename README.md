@@ -15,7 +15,7 @@
 
 [![Code Palace](https://img.shields.io/youtube/channel/subscribers/UCtkdVxQcNg7uOOixcyEDYrA?label=SL%20Coder&style=social)](https://www.youtube.com/channel/UCtkdVxQcNg7uOOixcyEDYrA)
 [![Github Followers](https://img.shields.io/github/followers/Movindu-tb?style=social)](https://github.com/Movindu-tb)
-[![Twitter Followers](https://img.shields.io/twitter/follow/MovinduB?label=Followers&style=social)](https://twitter.com/MovinduB)
+[![Twitter Followers](https://img.shields.io/twitter/follow/MovinduBandara?label=Followers&style=social)](https://twitter.com/MovinduB)
 
 
 
