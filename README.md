@@ -11,7 +11,7 @@
 
 - 💬 Ask me about anything. Contact me on email- slcoderyt@gmail.com
 
-- 👍 Follow me on Twitter:  <a href="https://twitter.com/MovinduB">MovinduB</a>
+- 👍 Follow me on Twitter:  <a href="https://twitter.com/MovinduBandara">MovinduBandara</a>
 
 [![Code Palace](https://img.shields.io/youtube/channel/subscribers/UCtkdVxQcNg7uOOixcyEDYrA?label=SL%20Coder&style=social)](https://www.youtube.com/channel/UCtkdVxQcNg7uOOixcyEDYrA)
 [![Github Followers](https://img.shields.io/github/followers/Movindu-tb?style=social)](https://github.com/Movindu-tb)
