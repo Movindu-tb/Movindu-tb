@@ -40,3 +40,8 @@
 
 <a href="https://github.com/denvercoder1/github-readme-streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Movindu-tb"></a>
 </p>
+
+## Operating Systems I Use 
+
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
