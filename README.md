@@ -17,6 +17,14 @@
 [![Github Followers](https://img.shields.io/github/followers/Movindu-tb?style=social)](https://github.com/Movindu-tb)
 [![Twitter Followers](https://img.shields.io/twitter/follow/MovinduBandara?label=Followers&style=social)](https://twitter.com/MovinduB)
 
+#  Social  Media
+
+<img width="5%" href="#" src="https://www.vectorlogo.zone/logos/youtube/youtube-tile.svg"></img>
+<img width="5%" href="#" src="https://www.vectorlogo.zone/logos/instagram/instagram-tile.svg"></img>
+<img width="5%" href="#" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg"></img>
+<img width="5%" href="#" src="https://www.vectorlogo.zone/logos/github/github-tile.svg"></img>
+<img width="5%" href="#" src="https://www.vectorlogo.zone/logos/reddit/reddit-tile.svg"></img>
+<img width="5%" href="#" src="https://www.vectorlogo.zone/logos/telegram/telegram-tile.svg"></img>
 
 
 ## Support Me
