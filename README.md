@@ -9,7 +9,7 @@
 
 - ✍ I’m currently learning HTML, CSS, JavaScript and PHP
 
-- 💬 Ask me about anything. Contact me on email- slcoderyt@gmail.com
+- 💬 Ask me about anything. Contact me on email- movindutb25@gmail.com
 
 - 👍 Follow me on Twitter:  <a href="https://twitter.com/MovinduBandara">MovinduBandara</a>
 
