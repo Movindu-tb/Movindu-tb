@@ -1,7 +1,7 @@
 # <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi There I'm Movindu Bandara. 
 
 ![Profile views](https://gpvc.arturio.dev/Movindu-tb)  <a href="https://t.me/movindubandara"> ![contact](https://img.shields.io/badge/Contact%20me-On%20Telegram-blue) </a>
-<a href="http://www.slcoder.cf">![contact](https://img.shields.io/badge/Visit%20Web-www.slcoder.cf-red) </a>
+<a href="http://slcoder.cf">![contact](https://img.shields.io/badge/Visit%20Web-slcoder.cf-red) </a>
 
 - 👨‍💻 I'm a web developer from Sri Lanka
 
@@ -55,7 +55,7 @@
 <a href="https://github.com/denvercoder1/github-readme-streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Movindu-tb"></a>
 </p>
 
-## Operating Systems I Use
+## Operating Systems I Using
 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
