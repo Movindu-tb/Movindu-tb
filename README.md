@@ -17,7 +17,7 @@
 [![Github Followers](https://img.shields.io/github/followers/Movindu-tb?style=social)](https://github.com/Movindu-tb)
 [![Twitter Followers](https://img.shields.io/twitter/follow/MovinduBandara?label=Followers&style=social)](https://twitter.com/MovinduB)
 
-#  Social  Media
+##  Social  Media
 
 <img width="5%" href="#" src="https://www.vectorlogo.zone/logos/youtube/youtube-tile.svg"></img>
 <img width="5%" href="#" src="https://www.vectorlogo.zone/logos/instagram/instagram-tile.svg"></img>
@@ -26,6 +26,7 @@
 <img width="5%" href="#" src="https://www.vectorlogo.zone/logos/reddit/reddit-tile.svg"></img>
 <img width="5%" href="#" src="https://www.vectorlogo.zone/logos/telegram/telegram-tile.svg"></img>
 
+[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=MovinduBandara)](https://github.com/gazf/github-readme-twitter)
 
 ## Support Me
 <div class="separator" style="clear: both;"><a href="https://ko-fi.com/movindu" style="display: block; padding: 1em 0px; text-align: center;" target="_blank"><img alt="" border="0" data-original-height="587" data-original-width="3050" src="https://1.bp.blogspot.com/-E4cqKnqxBlE/YVKl-DBdzFI/AAAAAAAAAto/J7n6837BSnQUsVqBmvZSXv7CTeYAUadcQCNcBGAsYHQ/s200/BuyMeACoffee_Red%25402x.png" width="200" /></a></div>
