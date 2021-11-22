@@ -49,9 +49,9 @@
     
    <code><img width="5%"  src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg"></code>
     <code><img width="5%"  src="https://www.vectorlogo.zone/logos/google/google-icon.svg"></code>
-        <code><img width="5%"  src="https://www.vectorlogo.zone/logos/wordpress/wordpress-icon.svg"></code>
+        <code><img width="5%"  src="https://www.vectorlogo.zone/logos/bracketsio/bracketsio-icon.svg"></code>
     <code><img width="5%"  src="https://www.vectorlogo.zone/logos/blogger/blogger-icon.svg"></code>
-        <code><img width="5%"  src="https://www.vectorlogo.zone/logos/wix/wix-icon.svg"></code>
+        <code><img width="5%"  src="https://www.vectorlogo.zone/logos/spotify/spotify-icon.svg"></code>
     <code><img width="5%"  src="https://www.vectorlogo.zone/logos/android/android-icon.svg"></code>
         <code><img width="5%"  src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg"></code>
                 <code><img width="5%"  src="https://www.vectorlogo.zone/logos/wikipedia/wikipedia-icon.svg"></code>
