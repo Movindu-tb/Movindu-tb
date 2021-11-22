@@ -46,6 +46,17 @@
     <code><img width="5%"  src="https://www.vectorlogo.zone/logos/github/github-icon.svg"></code>
   <code><img width="5%"  src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></code>
     <code><img width="5%"  src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg"></code>
+    
+   <code><img width="5%"  src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg"></code>
+    <code><img width="5%"  src="https://www.vectorlogo.zone/logos/google/google-icon.svg"></code>
+        <code><img width="5%"  src="https://www.vectorlogo.zone/logos/wordpress/wordpress-icon.svg"></code>
+    <code><img width="5%"  src="https://www.vectorlogo.zone/logos/blogger/blogger-icon.svg"></code>
+        <code><img width="5%"  src="https://www.vectorlogo.zone/logos/wix/wix-icon.svg"></code>
+    <code><img width="5%"  src="https://www.vectorlogo.zone/logos/android/android-icon.svg"></code>
+        <code><img width="5%"  src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg"></code>
+                <code><img width="5%"  src="https://www.vectorlogo.zone/logos/wikipedia/wikipedia-icon.svg"></code>
+        <code><img width="5%"  src="https://www.vectorlogo.zone/logos/flarum/flarum-icon.svg"></code>
+
 
 
 ##  My GitHub Stats 
