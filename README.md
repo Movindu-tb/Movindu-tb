@@ -29,7 +29,7 @@
 ### Recent Tweet 
 [![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=MovinduBandara)](https://github.com/gazf/github-readme-twitter)
 
-### Recent Articles at Medium
+### Recent Article at Medium
 [![Movindu Bandara](https://github-readme-medium.vercel.app/?username=movindutb)](https://movindutb.medium.com/)
 
 ## Support Me
