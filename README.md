@@ -68,6 +68,7 @@
 
 <p><img src="https://github-profile-trophy.vercel.app/?username=Movindu-tb"></p>
 
+<p><img src="https://activity-graph.herokuapp.com/graph?username=Movindu-tb" width="680px" ></p>
 
 <a href="https://github.com/denvercoder1/github-readme-streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Movindu-tb"></a>
 </p>
