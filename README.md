@@ -3,13 +3,15 @@
 ![Profile views](https://gpvc.arturio.dev/Movindu-tb)  <a href="https://t.me/movindubandara"> ![contact](https://img.shields.io/badge/Contact%20me-On%20Telegram-blue) </a>
 <a href="http://slcoder.cf">![contact](https://img.shields.io/badge/Visit%20Web-slcoder.cf-red) </a>
 
+<img width="44%" align="right" alt="Github" src="https://raw.githubusercontent.com/Movindu-tb/Movindu-tb/805afb698ee3a09f252f19fbb305a300634ed6d4/devcard.svg" />
+
 - 👨‍💻 I'm a web developer from Sri Lanka
 
 - 👩‍🎓 I’m currently studying at Colombo Ananda Collage
 
 - ✍ I’m currently learning HTML, CSS, JavaScript and PHP
 
-- 💬 Ask me about anything. Contact me on email- movindutb25@gmail.com
+- 💬 Ask me about anything. Contact me on <a href=mailto:movindutb25@gmail.com>Email</a>
 
 - 👍 Follow me on Twitter:  <a href="https://twitter.com/MovinduBandara">MovinduBandara</a>
 
