@@ -33,6 +33,11 @@
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft සමාගම විසින් ‘Power On: The Story of Xbox’ නමි​න් වාර්තා චිත්‍රපටයක් නිකුත් කිරීමට කටයුතු කරයි](https://androidwedakarayo.com/microsoft-publishes-power-on-the-story-of-xbox-documentary/)
+- [Windows 11න් Windows 10ට මාරුවෙමු](https://androidwedakarayo.com/lets-rollback-fro-windows-11-to-windows-10/)
+- [Dark Mode එකකින් යුතු නව Notepad එකක් Windows 11 වෙත ලබා දීමට Microsoft ආයතනය කටයුතු කරයි](https://androidwedakarayo.com/windows-11-new-notepad-dark-mode/)
+- [WhatsApp web හර​හා sticker නිර්මාණය කල හැකි පහසුකමක් හදුන්වා දීමට සූදානම් ​වේ](https://androidwedakarayo.com/whatsapp-web-native-sticker-maker-desktop/)
+- [Windows 11 වෙත නව emojis  ලබාදීමට Microsoft සමාගම කටයුතු කරයි](https://androidwedakarayo.com/microsofts-new-emoji-are-now-available-in-windows-11/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Support Me
