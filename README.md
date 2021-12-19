@@ -31,7 +31,7 @@
 ### Recent Tweet 
 [![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=MovinduBandara)](https://github.com/gazf/github-readme-twitter)
 
-## Blog posts
+## Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Microsoft සමාගම විසින් ‘Power On: The Story of Xbox’ නමි​න් වාර්තා චිත්‍රපටයක් නිකුත් කිරීමට කටයුතු කරයි](https://androidwedakarayo.com/microsoft-publishes-power-on-the-story-of-xbox-documentary/)
 - [Windows 11න් Windows 10ට මාරුවෙමු](https://androidwedakarayo.com/lets-rollback-fro-windows-11-to-windows-10/)
