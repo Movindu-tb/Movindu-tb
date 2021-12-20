@@ -33,6 +33,8 @@
 
 ## Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How To Make a Custom Favicon Using Adobe Photoshop.](http://www.sl-coder.tk/2021/12/how-to-make-custom-favicon-using-adobe.html)
+- [How To Make Transparent Login Page Using HTML and CSS.](http://www.sl-coder.tk/2021/12/how-to-make-transparent-login-page.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## Support Me
