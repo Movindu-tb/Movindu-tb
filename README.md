@@ -33,9 +33,11 @@
 
 ## Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [How To Make Your Own Telegram Group Help Bot- Sinhala.](http://www.sl-coder.tk/2021/12/how-to-make-your-own-telegram-group.html)
-- [How To Make a Custom Favicon Using Adobe Photoshop.](http://www.sl-coder.tk/2021/12/how-to-make-custom-favicon-using-adobe.html)
-- [How To Make Transparent Login Page Using HTML and CSS.](http://www.sl-coder.tk/2021/12/how-to-make-transparent-login-page.html)
+- [How To Make Sliced Text Effect Using Adobe Photoshop | #PhotoshopTutorials #AdobePhotoshop](http://www.sl-coder.tk/2021/12/how-to-make-sliced-text-effect-using.html)
+- [How To Enable Search Description In Blogger | #BloggingTutorials #BloggerTutorials](http://www.sl-coder.tk/2021/12/how-to-enable-search-description-in.html)
+- [How To Hide and Unhide Any Folder In Windows 10](http://www.sl-coder.tk/2021/12/how-to-hide-and-unhide-any-folder-in.html)
+- [How To Make GitHub Organizations For Free | Sinhala GitHub User Guide](http://www.sl-coder.tk/2021/12/how-to-make-github-organizations-for.html)
+- [How To Remove Any Virus Without Third-Party Software In Sinhala.](http://www.sl-coder.tk/2021/12/how-to-remove-any-virus-without-third.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## Support Me
