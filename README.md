@@ -33,11 +33,11 @@
 
 ## Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Download YouTube Videos Without Installing Softwares &lpar;One-Click&rpar; | In Sinhala](http://www.sl-coder.tk/2021/12/how-to-download-youtube-videos-without.html)
 - [How To Make Color Splash Effect Using Photoshop | #Photoshop #PhotoshopTutorials](http://www.sl-coder.tk/2021/12/how-to-make-color-splash-effect-using.html)
 - [How To Make Sliced Text Effect Using Adobe Photoshop | #PhotoshopTutorials #AdobePhotoshop](http://www.sl-coder.tk/2021/12/how-to-make-sliced-text-effect-using.html)
 - [How To Enable Search Description In Blogger | #BloggingTutorials #BloggerTutorials](http://www.sl-coder.tk/2021/12/how-to-enable-search-description-in.html)
 - [How To Hide and Unhide Any Folder In Windows 10](http://www.sl-coder.tk/2021/12/how-to-hide-and-unhide-any-folder-in.html)
-- [How To Make GitHub Organizations For Free | Sinhala GitHub User Guide](http://www.sl-coder.tk/2021/12/how-to-make-github-organizations-for.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## Support Me
