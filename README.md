@@ -9,7 +9,7 @@
 
 - 👩‍🎓 I’m currently studying at Colombo Ananda Collage
 
-- ✍ I’m currently learning HTML, CSS, JavaScript and PHP
+- ✍ I’m currently learning HTML, CSS, JavaScript. PHP And Python
 
 - 💬 Ask me about anything. Contact me on <a href=mailto:movindutb25@gmail.com>Email</a>
 
