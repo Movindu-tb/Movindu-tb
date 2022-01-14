@@ -31,5 +31,6 @@ jobs:
           plugin_languages_threshold: 0%
           plugin_people: yes
           plugin_people_limit: 24
+          plugin_achievements_display: compact
           plugin_people_size: 28
           plugin_people_types: followers
