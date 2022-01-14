@@ -32,6 +32,7 @@ jobs:
           plugin_languages_threshold: 0%
           plugin_topics_mode: icons
           plugin_people: yes
+          plugin_habits_days: 
           plugin_people_limit: 24
           plugin_people_size: 28
           plugin_people_types: followers
