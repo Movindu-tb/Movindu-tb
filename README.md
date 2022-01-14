@@ -66,7 +66,7 @@
 
 ##  My GitHub Stats 
 
-<a href="https://github.com/Movindu-tb"><img src="https://raw.githubusercontent.com/Movindu-tb/Movindu-tb/main/github-metrics.svg" alt="Metrics"></a>
+<a href="https://github.com/Movindu-tb"><img src="https://raw.githubusercontent.com/Movindu-tb/Movindu-tb/8f419f8342a69daab00679581487cc36df111cac/github-metrics.svg" alt="Metrics"></a>
 
 ## Operating Systems I Using
 
