@@ -85,4 +85,4 @@
 
 ##  My GitHub Stats 
 
-<a href="https://github.com/Movindu-tb"><img src="https://raw.githubusercontent.com/Movindu-tb/Movindu-tb/421404141ae481fb2ae15d08aabc43284f14aa72/github-metrics.svg" alt="Metrics"></a>
+<a href="https://github.com/Movindu-tb"><img src="https://github.com/Movindu-tb/Movindu-tb/raw/main/github-metrics.svg" alt="Metrics"></a>
