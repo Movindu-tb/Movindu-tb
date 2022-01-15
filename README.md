@@ -28,15 +28,6 @@
 <img width="5%" href="#" src="https://www.vectorlogo.zone/logos/reddit/reddit-tile.svg"></img>
 <img width="5%" href="#" src="https://www.vectorlogo.zone/logos/telegram/telegram-tile.svg"></img>
 
-## Recent Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [How To View Updates History In Windows 10 | Sinhala #Windows](http://www.sl-coder.tk/2022/01/how-to-view-updates-history-in-windows.html)
-- [How to Download YouTube Videos Without Installing Softwares &lpar;One-Click&rpar; | In Sinhala](http://www.sl-coder.tk/2021/12/how-to-download-youtube-videos-without.html)
-- [How To Make Color Splash Effect Using Photoshop | #Photoshop #PhotoshopTutorials](http://www.sl-coder.tk/2021/12/how-to-make-color-splash-effect-using.html)
-- [How To Make Sliced Text Effect Using Adobe Photoshop | #PhotoshopTutorials #AdobePhotoshop](http://www.sl-coder.tk/2021/12/how-to-make-sliced-text-effect-using.html)
-- [How To Enable Search Description In Blogger | #BloggingTutorials #BloggerTutorials](http://www.sl-coder.tk/2021/12/how-to-enable-search-description-in.html)
-<!-- BLOG-POST-LIST:END -->
-
 ## Support Me
 <div class="separator" style="clear: both;"><a href="https://ko-fi.com/movindu" style="display: block; padding: 1em 0px; text-align: center;" target="_blank"><img alt="" border="0" data-original-height="587" data-original-width="3050" src="https://1.bp.blogspot.com/-E4cqKnqxBlE/YVKl-DBdzFI/AAAAAAAAAto/J7n6837BSnQUsVqBmvZSXv7CTeYAUadcQCNcBGAsYHQ/s200/BuyMeACoffee_Red%25402x.png" width="200" /></a></div>
 
