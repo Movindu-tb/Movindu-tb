@@ -3,7 +3,7 @@
 ![Profile views](https://gpvc.arturio.dev/Movindu-tb)  <a href="https://t.me/movindubandara"> ![contact](https://img.shields.io/badge/Contact%20me-On%20Telegram-blue) </a>
 <a href="http://slcoder.cf">![contact](https://img.shields.io/badge/Visit%20Web-slcoder.cf-red) </a>
 
-<img width="44%" align="right" alt="Github" src="https://api.daily.dev/devcards/07788e328aba4f808ab126472aa88789.png?r=x1m" />
+<img width="44%" align="right" alt="Github" src="https://api.daily.dev/devcards/07788e328aba4f808ab126472aa88789.png" />
 
 - 👨‍💻 I'm a web developer from Sri Lanka
 
