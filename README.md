@@ -74,6 +74,6 @@
 ![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
 ![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
 
-##  My GitHub Stats 
+##  My GitHub Stats
 
 <a href="https://github.com/Movindu-tb"><img src="https://github.com/Movindu-tb/Movindu-tb/raw/main/github-metrics.svg" alt="Metrics"></a>
